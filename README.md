@@ -27,13 +27,9 @@ For a visual representation of the conceptual schema, please refer to the ER dia
 
 If there are any assumptions or interpretations beyond the provided narrative, these have been noted in the project documentation. For further details, please refer to the `README.md` and the ER diagram.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ## Contact
 
-For questions or feedback, please contact me via [email](mailto:youremail@example.com) or open an [issue](https://github.com/yourrepository/issues) on GitHub.
+For questions or feedback, please contact me via [vitorbeatle@gmail.com) or open an issue.
 
 ---
 
